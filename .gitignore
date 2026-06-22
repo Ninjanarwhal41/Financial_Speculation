@@ -1,0 +1,4 @@
+.env
+.venv/
+!private_key_example.pem
+*.pem
